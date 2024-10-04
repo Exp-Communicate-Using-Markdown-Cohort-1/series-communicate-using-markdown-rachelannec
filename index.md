@@ -11,3 +11,11 @@ Next, we supposed to add image (just ctrl+c nyahahaha)
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+
+To format a tasklist, use `- [ ]`
+- [ ] Kumain
+- [ ] Matulog
+- [ ] Code (?)
+- [x] Space out malala
+
